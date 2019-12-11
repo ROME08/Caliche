@@ -1,0 +1,22 @@
+/* binding */
+class Home extends Component{
+  constructor(props){
+    super(props)
+    this.updateState = this.updateState.bind(this)
+  }
+    
+  updateState(){
+
+  }
+}
+
+/*   */
+
+class Home extends Component{
+  constructor(props){
+    super(props)
+  }
+    
+  updateState = () => this.setState({ myState: "This state is updated"})
+
+  }

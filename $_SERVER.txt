@@ -1,0 +1,50 @@
+Array
+(
+    [MIBDIRS] =&gt; C:/xampp/php/extras/mibs
+    [MYSQL_HOME] =&gt; \xampp\mysql\bin
+    [OPENSSL_CONF] =&gt; C:/xampp/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] =&gt; \xampp\php
+    [PHPRC] =&gt; \xampp\php
+    [TMP] =&gt; \xampp\tmp
+    [HTTP_HOST] =&gt; localhost
+    [HTTP_CONNECTION] =&gt; keep-alive
+    [HTTP_CACHE_CONTROL] =&gt; max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] =&gt; 1
+    [HTTP_USER_AGENT] =&gt; Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36
+    [HTTP_SEC_FETCH_USER] =&gt; ?1
+    [HTTP_ACCEPT] =&gt; text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] =&gt; none
+    [HTTP_SEC_FETCH_MODE] =&gt; navigate
+    [HTTP_ACCEPT_ENCODING] =&gt; gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] =&gt; es-ES,es;q=0.9,en;q=0.8
+    [HTTP_COOKIE] =&gt; PHPSESSID=etm2ipbufv35rdl9vn7tbpep37
+    [PATH] =&gt; C:\Users\carlos\AppData\Roaming\npm;C:\Program Files\Java;C:\Program Files\Git\cmd;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Program Files\PuTTY\;C:\Users\carlos\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\carlos\AppData\Roaming\npm;C:\Users\carlos\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\carlos\AppData\Local\Programs\Python\Python37\;C:\Users\carlos\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\carlos\AppData\Local\Android\Sdk\tools;C:\Users\carlos\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\MongoDB\Server\4.2\bin;C:\Program Files\nodejs;
+    [SystemRoot] =&gt; C:\Windows
+    [COMSPEC] =&gt; C:\Windows\system32\cmd.exe
+    [PATHEXT] =&gt; .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] =&gt; C:\Windows
+    [SERVER_SIGNATURE] => "<address>Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.6 Server at localhost Port 80</address>" 
+
+
+    [SERVER_SOFTWARE] =&gt; Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.6
+    [SERVER_NAME] =&gt; localhost
+    [SERVER_ADDR] =&gt; ::1
+    [SERVER_PORT] =&gt; 80
+    [REMOTE_ADDR] =&gt; ::1
+    [DOCUMENT_ROOT] =&gt; C:/xampp/htdocs
+    [REQUEST_SCHEME] =&gt; http
+    [CONTEXT_PREFIX] =&gt; 
+    [CONTEXT_DOCUMENT_ROOT] =&gt; C:/xampp/htdocs
+    [SERVER_ADMIN] =&gt; postmaster@localhost
+    [SCRIPT_FILENAME] =&gt; C:/xampp/htdocs/simplePHPMVC/index.php
+    [REMOTE_PORT] =&gt; 59404
+    [GATEWAY_INTERFACE] =&gt; CGI/1.1
+    [SERVER_PROTOCOL] =&gt; HTTP/1.1
+    [REQUEST_METHOD] =&gt; GET
+    [QUERY_STRING] =&gt; page=documentos
+    [REQUEST_URI] =&gt; /simplePHPMVC/index.php?page=documentos
+    [SCRIPT_NAME] =&gt; /simplePHPMVC/index.php
+    [PHP_SELF] =&gt; /simplePHPMVC/index.php
+    [REQUEST_TIME_FLOAT] =&gt; 1573421187.371
+    [REQUEST_TIME] =&gt; 1573421187
+)
